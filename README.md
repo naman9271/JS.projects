@@ -1,1 +1,1 @@
-this is a js projects for my practice
+this is my js projects for my practice
